@@ -11,7 +11,6 @@ Supports detection of master keys, salt, derivation rounds, address info and wal
 - 🔐 Extracts encrypted master key, salt, and derivation rounds
 - 🧾 Generates `$bitcoin$` format hash for cracking
 - 📬 Fetches address balance info from blockchain.info
-- 
 ---
 
 ## 📸 Screenshot
