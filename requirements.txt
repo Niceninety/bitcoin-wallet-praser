@@ -1,0 +1,4 @@
+pyqt5
+bsddb3
+requests
+packaging
