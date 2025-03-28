@@ -29,6 +29,7 @@ Supports detection of master keys, salt, derivation rounds, address info and wal
 - `bsddb3`
 - `requests`
 - `PyQt5`
+- `packaging`
 
 Install dependencies:
 
