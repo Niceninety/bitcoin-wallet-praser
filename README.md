@@ -15,7 +15,8 @@ Supports detection of master keys, salt, derivation rounds, address info and wal
 
 ## 📸 Screenshot
 
-> ![screenshot](https://github.com/user-attachments/assets/35f4b615-7b74-4250-b62e-3ebf817d389e)
+> ![screenshot](https://github.com/user-attachments/assets/b0e0ceac-ffe1-4257-adcb-6788f846d4fa)
+
 
 
 ---
