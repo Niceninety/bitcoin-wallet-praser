@@ -16,7 +16,7 @@ Supports detection of master keys, salt, derivation rounds, address info and wal
 ## 📸 Screenshot
 
 > ![2025-03-29_03-38-21](https://github.com/user-attachments/assets/16a80e03-1974-4c6e-9535-e46fecd8c1a7)
-> the wallet.dat in the screenshot maybe a fake wallet, which i download from the Internet.
+> The wallet.dat file in the screenshot maybe a fake wallet, which i downloaded from the Internet.
 
 
 
